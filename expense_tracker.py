@@ -7,4 +7,5 @@ print("Expenses:", expenses)
 print("Total:", total)
 print("Highest:", highest)
 print("Average:", average)
+print("Number of expenses:", len(expenses))
 
