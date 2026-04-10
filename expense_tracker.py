@@ -1,5 +1,5 @@
 print("welcome to expense tracker")
-expenses = [200,300,500,700,1000]
+expenses = [500, 200, 800, 300, 1000]
 total = sum(expenses)
 highest = max(expenses)
 average = sum(expenses) / len(expenses)
